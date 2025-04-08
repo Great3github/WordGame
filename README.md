@@ -1,4 +1,13 @@
 # My word game
+## MASSIVE update coming soon! Here are the details:
+- v2 UI: Starting from this version, WordGame will now use PyInquirer for all of its menus and questions.
+- Questions Update: From this version on, all questions will be multiple choice
+- Points: A new point shop with all-new powerups will be added, and will use the Points that were introduced in v3.
+- Game Menu: A new game menu is in the works, serving as the 'title screen menu' that most games have
+- More options for customization: With this new update, it will be easier to customize the point shop items, powerup counts, etc.
+## Plans for future updates
+- Saving progress to a file
+- Adding more powerups
 ## v1
 Uses a full local list of everything in the English dictionary, one word per file, 100K+ word files. Everything is coded as a class for maximum flexibility.\
 \
