@@ -1,5 +1,6 @@
 # My word game
 ## MASSIVE update coming soon! Here are the details:
+- Faster method: This update brings a new method of choosing words, where whenever it finds a word without a synonym, it creates a file at ./badwords/{word}.bak. Whenever it tries a word and it is in this file list, it skips going online to find out if it's a synonym and just moves on to the next word
 - v2 UI: Starting from this version, WordGame will now use PyInquirer for all of its menus and questions.
 - Questions Update: From this version on, all questions will be multiple choice
 - Points: A new point shop with all-new powerups will be added, and will use the Points that were introduced in v3.
