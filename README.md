@@ -6,7 +6,7 @@
 - Points: A new point shop with all-new powerups will be added, and will use the Points that were introduced in v3.
 - Game Menu: A new game menu is in the works, serving as the 'title screen menu' that most games have
 - More options for customization: With this new update, it will be easier to customize the point shop items, powerup counts, etc.
-### A beta version has been released, but lacks most features and likely has many bugs
+### A beta version has been released, and most of these features are now available! There are still some bugs that will be fixed in the official release.
 ## Plans for future updates
 - Saving progress to a file
 - Adding more powerups
